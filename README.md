@@ -30,7 +30,7 @@
 1. Клонируйте или скачайте репозиторий
 
 ```sh
-git clone https://github.com/happycozero/vk-dumper.git
+git clone https://github.com/happycozero/VK-Dumper.git
 ```
 
 2. Получите access токен на сайте: [https://vkhost.github.io/](https://vkhost.github.io/)
