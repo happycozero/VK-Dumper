@@ -3,13 +3,12 @@
 <br/>
 <p align="center">
   <a href="https://github.com/happycozero - Dumper (using a token)">
-    <img src="" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">VK - Dumper (using a token)</h3>
 
   <p align="center">
-    An Awesome ReadME Generator To Jumpstart Your Projects!
+    Создайте дамп своей страницы с помощью языка python
     <br/>
     <br/>
   </p>
