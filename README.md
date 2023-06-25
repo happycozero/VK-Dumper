@@ -1,11 +1,11 @@
-# VK Dumper
+# ВК Дамп
 
 <br/>
 <p align="center">
   <a href="https://github.com/happycozero - Dumper (using a token)">
   </a>
 
-  <h3 align="center">VK - Dumper (using a token)</h3>
+  <h3 align="center">ВК - Дамп сообщений (с использованием токена)</h3>
 
   <p align="center">
     Создайте дамп своей страницы с помощью языка Python
